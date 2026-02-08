@@ -16,4 +16,4 @@ If I need energy, electronic keeps me moving.
 
 What keeps you in the zone?
 
-![Day 8 - What you listen?](../Resources/day_9.png)
+![Day 8 - What you listen?](../Resources/day_8.png)
