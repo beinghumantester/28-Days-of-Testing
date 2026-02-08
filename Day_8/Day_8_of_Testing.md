@@ -16,4 +16,12 @@ If I need energy, electronic keeps me moving.
 
 What keeps you in the zone?
 
-![Day 8 - What you listen?](../Resources/day_9.png)
+
+## What keeps me in the zone?
+
+
+For me, lofi and soft music are usually the first choice.  
+They help me stay calm and focused, especially during long testing sessions.  
+But honestly, it depends a lot on the mood and the situation.  
+When I’m working alone, I often switch to Hindi songs.  
+They feel familiar and make the work feel a little lighter.
