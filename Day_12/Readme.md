@@ -19,5 +19,5 @@ Every single answer pointed me somewhere I would not have looked. Developers kno
 
 ---
 
-![Day 12 - What you find after asking developers about their fear factor?](../Resources/day_12.png)
+![Day 11 - What are you focusing for testing after developers are using AI to write code?](../Resources/day_11.png)
 
