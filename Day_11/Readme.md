@@ -20,4 +20,4 @@ What are you doing differently to test AI generated code?
 
 Or honestly, are you doing nothing different yet?
 
-![Day 9 - What are you focusing for testing after developers are using AI to write code?](../Resources/day_11.png)
+![Day 11 - What are you focusing for testing after developers are using AI to write code?](../Resources/day_11.png)
