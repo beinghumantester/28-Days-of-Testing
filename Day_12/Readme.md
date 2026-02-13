@@ -17,7 +17,7 @@ Then I started asking. And the answers changed how I tested.
 
 Every single answer pointed me somewhere I would not have looked. Developers know where the weak spots are. They just do not always speak about them unless you ask.
 
----
 
-![Day 11 - What are you focusing for testing after developers are using AI to write code?](../Resources/day_11.png)
+
+![Day 12 - What did you find when you ask developers about their fear factor?](../Resources/day_12.png)
 
