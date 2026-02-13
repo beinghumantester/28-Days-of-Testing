@@ -1,4 +1,3 @@
-```md
 # Day 12 of #28DaysOfTesting
 
 One question. Takes three minutes.
